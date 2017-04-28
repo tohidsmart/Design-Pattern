@@ -1,0 +1,6 @@
+C:\Users\azim319466\Documents\Visual Studio 2013\Projects\DesignPatterns\Repository\bin\Debug\Repository.exe.config
+C:\Users\azim319466\Documents\Visual Studio 2013\Projects\DesignPatterns\Repository\bin\Debug\Repository.exe
+C:\Users\azim319466\Documents\Visual Studio 2013\Projects\DesignPatterns\Repository\bin\Debug\Repository.pdb
+C:\Users\azim319466\Documents\Visual Studio 2013\Projects\DesignPatterns\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\azim319466\Documents\Visual Studio 2013\Projects\DesignPatterns\Repository\obj\Debug\Repository.exe
+C:\Users\azim319466\Documents\Visual Studio 2013\Projects\DesignPatterns\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,7 @@
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\bin\Debug\TestProject.dll
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\bin\Debug\TestProject.pdb
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\obj\Debug\TestProject.dll
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\obj\Debug\TestProject.pdb
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\bin\Debug\Liskov.dll
+C:\Users\azim319466\Desktop\DesignPatterns\TestProject\bin\Debug\Liskov.pdb

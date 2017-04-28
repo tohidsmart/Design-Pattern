@@ -1,0 +1,6 @@
+c:\users\azim319466\documents\visual studio 2013\Projects\Meditor\Meditor\bin\Debug\Meditor.exe.config
+c:\users\azim319466\documents\visual studio 2013\Projects\Meditor\Meditor\obj\Debug\Meditor.csprojResolveAssemblyReference.cache
+c:\users\azim319466\documents\visual studio 2013\Projects\Meditor\Meditor\bin\Debug\Meditor.exe
+c:\users\azim319466\documents\visual studio 2013\Projects\Meditor\Meditor\bin\Debug\Meditor.pdb
+c:\users\azim319466\documents\visual studio 2013\Projects\Meditor\Meditor\obj\Debug\Meditor.exe
+c:\users\azim319466\documents\visual studio 2013\Projects\Meditor\Meditor\obj\Debug\Meditor.pdb

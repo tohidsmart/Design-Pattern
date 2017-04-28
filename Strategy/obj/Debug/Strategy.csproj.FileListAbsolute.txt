@@ -1,0 +1,6 @@
+c:\users\azim319466\documents\visual studio 2013\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+c:\users\azim319466\documents\visual studio 2013\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+c:\users\azim319466\documents\visual studio 2013\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+c:\users\azim319466\documents\visual studio 2013\Projects\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+c:\users\azim319466\documents\visual studio 2013\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+c:\users\azim319466\documents\visual studio 2013\Projects\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
